@@ -10,7 +10,7 @@ permalink: /proj/
 
 <img src="/assets/images/proj2.png" alt="drawing" style="float:left;width:50%; padding: 10px 25px 15px 0px;">
 <p align = "justify">
-Single neuronal responses to a repeated naturalitic movie drifted across weeks. However, by applying a dimensionality reduction method (Isomap) and an unsurpervised 
+Single neuronal responses to a repeated naturalistic movie drifted across weeks. However, by applying a dimensionality reduction method (Isomap) and an unsupervised 
 learning method (<a href="https://fietelab.mit.edu/code/">SPUD</a>), we extracted a stable one-dimensional representation of time in the naturalistic movie from population activity across weeks. 
 Further analysis showed that the stable representation was mediated by the precise timing and coordinations between episodic activity in single neuronal responses.
 </p>
