@@ -4,6 +4,8 @@ title: Conferences
 permalink: /conf/
 
 ---
+**Ji Xia**, Tyler Dylan Marks, Michael Jacobs Goard, Ralf Wessel. "Stable representations of natural movie emerge from unstable single neuron responses." *Cosyne* (2021).
+
 **Ji Xia**, Tyler Dylan Marks, Michael Jacobs Goard, Ralf Wessel. "Stable representations of natural movie emerge from unstable single neuron responses." *Bernstein conference* (2020). [(link)](https://abstracts.g-node.org/conference/BC20/abstracts#/uuid/feecff01-04aa-4940-ae10-d64ab5929370)
 
 **Ji Xia**, Patrick O'Neill, Michael Jacobs Goard, Ralf Wessel. "Skewed distribution of response reliability in mouse V1 across different types of visual stimuli." *Society for Neuroscience* (2019). 
