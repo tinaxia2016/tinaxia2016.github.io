@@ -22,7 +22,7 @@ permalink: /proj/
 
 [**Inpainting the Neural Picture: Inferring Unrecorded Brain Area Dynamics from Multi-Animal Datasets**](https://neurips.cc/virtual/2025/loc/san-diego/poster/117392)
 
-<img src="/assets/images/proj4.png" alt="drawing" style="display:block; margin:0 auto; width:80%; padding:10px 0;">
+<img src="/assets/images/proj4.jpeg" alt="drawing" style="display:block; margin:0 auto; width:80%; padding:10px 0;">
 <p align = "justify">
 Understanding how distributed brain circuits drive an animal’s behavior requires recordings from interconnected cortical and subcortical areas. While Neuropixels enable simultaneous recordings from multiple areas, no single experiment covers all areas of interest, and, in a given recorded area, different neurons are recorded across sessions and animals. This poses a central challenge: how can we integrate multi-animal datasets to study interactions across brain areas that are not recorded simultaneously in any single session? We introduce NeuroPaint, a masked autoencoding approach for inferring the dynamics of unrecorded brain areas. By training across animals with overlapping subsets of recorded regions, NeuroPaint learns to reconstruct neural dynamics in unrecorded areas by leveraging shared structure across individuals. 
 <br><br>
