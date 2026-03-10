@@ -20,8 +20,7 @@
 
 title: Ji Xia
 email: xiaji@wustl.edu
-description: >- # this means to ignore newlines until "baseurl:"
-  This is Ji Xia's personal website.
+description: "" # site description (appears in footer and meta tags)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
@@ -60,3 +59,6 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+sass:
+  quiet_deps: true
